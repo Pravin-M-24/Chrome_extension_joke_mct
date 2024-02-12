@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+     width: 350px;
+     height: 200px;
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     border-radius: 20px;
+     gap:20px;
+     background-color: black;
+}
+p{
+    width: 300px;
+    background-color: aqua;
+    font-size: 16px;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 700;
+}

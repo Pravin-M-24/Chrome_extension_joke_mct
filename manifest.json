@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Jokes Generator",
+    "version": "1.0",
+    "description": "The ability to generate jokes across a wide range of categories, such as puns, wordplay, observational humor, and more.",
+    "icons": {
+        "128": "logo128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+       "128": "logo128.png"
+      }
+    },
+    "permissions": [
+       "tabs"
+    ]
+    
+    
+  }
+  
