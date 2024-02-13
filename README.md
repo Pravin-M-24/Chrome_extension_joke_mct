@@ -1,25 +1,24 @@
-# Color Picker Chrome Extension
+# Joke Generator Chrome Extension
 
 ## Description
 
-The Color Picker Chrome Extension is a tool that allows users to easily pick and copy colors from any web page. It provides a simple interface for selecting colors, copying their hexadecimal or RGB values, and integrating them into your design workflow.
+The Joke Generator Chrome Extension is a fun and lighthearted tool that delivers a dose of humor directly to your browser. With just a click, you can enjoy a variety of jokes to brighten your day.
 
 ## Features
 
-- **Easy Color Picking:** Use the color picker tool to select any color from a web page.
-- **Copy Color Values:** Copy the color's hexadecimal or RGB values with a single click.
-- **Intuitive Interface:** A user-friendly interface for seamless color exploration.
+- **Instant Jokes:** Get a random joke at the click of a button.
+- **Diverse Categories:** Explore jokes across different categories like puns, dad jokes, and more.
+- **Share Laughter:** Easily share your favorite jokes with friends through social media or messaging apps.
 
 ## Installation
-
-1. Download the extension from the Chrome Web Store [link].
-2. Click on the "Add to Chrome" button to install the extension.
+   Click on the "Add to Chrome" button to install the extension.
 
 ## How to Use
 
 1. **Open Extension:** Click on the extension icon in the Chrome toolbar.
-2. **Pick Color:** Use the color picker tool to select a color from any part of the web page.
-3. **Copy Values:** Click on the "Copy" button to copy the color's values to your clipboard.
+2. **Get a Joke:** Click on the "Get Joke" button to receive a random joke.
+3. **Explore Categories:** Choose a specific category for jokes if you're in the mood for something particular.
+4. **Share Laughter:** Share your favorite jokes with friends by clicking the "Share" button.
 
 ## Screenshots
 
