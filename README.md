@@ -22,8 +22,8 @@ The Joke Generator Chrome Extension is a fun and lighthearted tool that delivers
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img width="943" alt="image" src="https://github.com/Pravin-M-24/Color_picker_Chrome_extension_mct/blob/main/Screenshot%20(268).png">
+
 
 
 
